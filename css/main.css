@@ -674,6 +674,20 @@ video {
   .md\:m-24 {
     margin: 6rem;
   }
+
+  .md\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+
+  .md\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  .md\:leading-loose {
+    line-height: 2;
+  }
 }
 
 @media (min-width: 976px) {
